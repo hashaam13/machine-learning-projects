@@ -1,4 +1,4 @@
-Implementation of neural networks using numpy.
+Implementation of neural networks using numpy, from scratch.
 
 Implented Relu, Tanh, Softmax activation function.
 
